@@ -1,0 +1,13 @@
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\bin\Release\netcoreapp2.0\bmp180-netcore-example.deps.json
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\bin\Release\netcoreapp2.0\bmp180-netcore-example.runtimeconfig.json
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\bin\Release\netcoreapp2.0\bmp180-netcore-example.runtimeconfig.dev.json
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\bin\Release\netcoreapp2.0\bmp180-netcore-example.dll
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\bin\Release\netcoreapp2.0\bmp180-netcore-example.pdb
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\bin\Release\netcoreapp2.0\bmp180-netcore.dll
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\bin\Release\netcoreapp2.0\i2c-netcore.dll
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\obj\Release\netcoreapp2.0\bmp180-netcore-example.csprojResolveAssemblyReference.cache
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\obj\Release\netcoreapp2.0\bmp180-netcore-example.csproj.CoreCompileInputs.cache
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\obj\Release\netcoreapp2.0\bmp180-netcore-example.AssemblyInfoInputs.cache
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\obj\Release\netcoreapp2.0\bmp180-netcore-example.AssemblyInfo.cs
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\obj\Release\netcoreapp2.0\bmp180-netcore-example.dll
+c:\users\antonio\source\repos\bmp180-netcore-example\bmp180-netcore-example\obj\Release\netcoreapp2.0\bmp180-netcore-example.pdb
