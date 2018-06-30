@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmp180-dotnet-example", "bmp180-dotnet-example\bmp180-dotnet-example.csproj", "{4BDB3CCF-AC55-48D4-897A-C5B4B225CEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDB3CCF-AC55-48D4-897A-C5B4B225CEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDB3CCF-AC55-48D4-897A-C5B4B225CEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDB3CCF-AC55-48D4-897A-C5B4B225CEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDB3CCF-AC55-48D4-897A-C5B4B225CEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259FEA94-7F1C-420D-874F-2EF2917A1534}
+	EndGlobalSection
+EndGlobal

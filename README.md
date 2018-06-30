@@ -1,4 +1,4 @@
-# bmp180-netcore-example
+# bmp180-dotnet-example
 
 Example for using [bmp180-dotnet](https://github.com/garciaolais/bmp180-dotnet) Library 
 
